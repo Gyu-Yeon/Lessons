@@ -134,7 +134,7 @@
   <br> });
   <br> }}
 
-## 10. useEffect
+## 9. useEffect
 
 - useEffect is activate when the page is loaded.
 - If you use this function with useState, useEffect will activate whenever useState is changing.
@@ -155,7 +155,7 @@
 
   2022.01.28
 
-## 11. how to send data from main component to nested component
+## 10. how to send data from main component to nested component
 
 - first you need 3 or more components.
 - inside of main components, make a components that has another components inside of it.
